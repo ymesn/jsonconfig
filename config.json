@@ -4,6 +4,6 @@
     "stayOn2026Extra": 900,
     "slowStayDelay": 1500,
     "clickInterval": 630,
-    "slowPeriodDuration": 30000,
+    "slowPeriodDuration": 15000,
     "targetQuantity": 2
 }
