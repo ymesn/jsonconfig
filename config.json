@@ -1,0 +1,9 @@
+CONFIG = {
+    targetTimeStr: "19:59:58",        // 开始循环切换的目标时间（24小时制）
+    switchInterval: 400,              // 切换到下一个年份后的基础等待时间(ms)
+    stayOn2026Extra: 450,             // 正常时期：切换到2026后的额外停留时间(ms)
+    slowStayDelay: 1000,              // 慢速期：切换到2026后的停留时间(ms)
+    clickInterval: 630,               // 点击“立即购买”按钮的最小间隔(ms) 【可由设置界面动态调整】
+    slowPeriodDuration: 30000,        // 慢速期持续时间(ms)，从目标时间开始计算
+    targetQuantity: 2                 // 默认2目标购买数量：2、4、6 【可由设置界面动态调整】
+};
