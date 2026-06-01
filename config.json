@@ -2,7 +2,7 @@
     "targetTimeStr": "19:59:59",
     "switchInterval": 900,
     "stayOn2026Extra": 900,
-    "slowStayDelay": 1000,
+    "slowStayDelay": 1500,
     "clickInterval": 630,
     "slowPeriodDuration": 30000,
     "targetQuantity": 2
